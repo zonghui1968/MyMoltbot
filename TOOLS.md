@@ -23,6 +23,12 @@ Things like:
 - **Color Preference:** 避免蓝紫渐变色
 - **Note:** 在开发前端项目时，配色方案中不要使用蓝紫色渐变
 
+## CodeSpace Public URL
+
+- **公网链接：** https://laughing-space-adventure-9p4v7x4jqxr3759g-18789.app.github.dev
+- **工作流：** 每次完成开发后运行前端项目，发送公网链接给宗晖在手机上访问
+- **注意：** 端口不要冲突
+
 ## GitHub Repository
 
 - **Repository:** https://github.com/zonghui1968/MyMoltbot
